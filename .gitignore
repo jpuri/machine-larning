@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 .DS_Store
+text-classifier/__pycache__
+text-classifier/venv
